@@ -5,7 +5,7 @@ import time
 from queue import Queue
 
 
-#Creates a socket (a connection between two computers)
+#Creates a socket
 def create_socket():
     try:
         global host
